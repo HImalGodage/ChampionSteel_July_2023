@@ -13,7 +13,7 @@ with st.spinner('Wait for it...'):
 components.html(
 
     """
-    <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2YyODUyNGUtODM5Yy00YjY2LWI4YTItZTY3ODBmNTI3ZGJhIiwidCI6IjE0NzUxNTliLTAwNmEtNGZiNC1iYjBiLTk2MWNlZWFlMTI4YyIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+    <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjNlOGI3YjEtNWUxMS00ODRhLWFjNjQtMjlkZjNjNzg5MzAyIiwidCI6IjE0NzUxNTliLTAwNmEtNGZiNC1iYjBiLTk2MWNlZWFlMTI4YyIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
   
     
     """,
